@@ -1,6 +1,6 @@
 # 3D Printing Showcase
 
-Välkommen till mitt galleri av 3D-printade projekt! Här delar jag bilder på mina utskrifter och ger en kort beskrivning av varje.
+Välkommen till mitt galleri av 3D-printade projekt! Här delar jag bilder på mina 3D ritningar och ger en kort beskrivning av varje.
 
 ## Solderingstation
 
