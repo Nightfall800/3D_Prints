@@ -22,4 +22,7 @@ Supports: Yes.
 
 ---
 
+## Plug for car heating socket
+
+![Solderingstation](images/Plugg03V1.png)
 
