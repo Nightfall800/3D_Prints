@@ -28,4 +28,18 @@ Supports: Yes.
 ![Solderingstation](images/Plugg01V1.jpg)
 ![Solderingstation](images/Plugg02V1.jpg)
 
+The cover of the car heating socket broke. So to prevent dirt from going into the outlet, I created this plug that covers. Made this model in Tinkercad.
+
+Print Settings
+Printer brand:
+Creality
+
+Printer:
+CR-6 SE
+
+Rafts: Doesn't Matter. 
+Supports: No.
+
+
+---
 
