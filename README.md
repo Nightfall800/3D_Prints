@@ -16,8 +16,8 @@ Creality
 Printer:
 CR-6 SE
 
-Rafts: Doesn't Matter
-Supports: Yes
+Rafts: Doesn't Matter. 
+Supports: Yes.
 
 
 ---
